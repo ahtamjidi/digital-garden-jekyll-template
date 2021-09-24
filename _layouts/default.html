@@ -3,10 +3,17 @@
   {% include head.html %}
   <body>
     <nav>{% include nav.html %}</nav>
-    <div class="wrapper">
-      <main>{{ content }}</main>
-      <footer>{% include footer.html %}</footer>
-    </div>
+    {%- if page.lang == 'fa' -%}
+      <div class="wrapper" dir="rtl">
+        <main>{{ content }}</main>
+        <footer>{% include footer.html %}</footer>
+      </div>
+    {%- else -%}
+      <div class="wrapper" dir="auto">
+        <main><bdi>{{ content }}</bdi></main>
+        <footer>{% include footer.html %}</footer>
+      </div>
+    {%- endif -%}
 
     {% include link-previews.html wrapperQuerySelector="content" %}
   </body>
