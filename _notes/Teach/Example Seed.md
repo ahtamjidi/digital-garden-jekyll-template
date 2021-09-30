@@ -10,4 +10,4 @@
 
 ## My own examples
 - [My learning path —](https://ahtamjidi.github.io/learn/#Amirhossein%20Tamjidi:%5B%5BAmirhossein%20Tamjidi%5D%5D) Amirhossein Tamjidi's TiddlyWiki 
-- [Example seed — Amirhossein Tamjidi's Digital Garden](http://127.0.0.1:4000/example-seed)
+- [Example seed — Amirhossein Tamjidi's Digital Garden](https://atamjidigarden.netlify.app/example-seed)
