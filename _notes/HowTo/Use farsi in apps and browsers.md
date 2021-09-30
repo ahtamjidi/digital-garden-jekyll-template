@@ -1,0 +1,17 @@
+---
+---
+
+- [GitHub - kokabi1365/Vajehdan: راهنمای واژه‌گزینیِ فارسی 📘](https://github.com/kokabi1365/Vajehdan)
+- [GitHub - persiannlp/parsinlu](https://github.com/persiannlp/parsinlu)
+- [GitHub - nekofar/awesome-freelancers: This repository is a place to collect a list of Iranian freelancers with expertise in different areas.](https://github.com/nekofar/awesome-freelancers)
+- [GitHub - omid/awesome-persian-youtubers: لیست یوتیوبرهای فارسی‌زبان](https://github.com/omid/awesome-persian-youtubers)
+- [Vidoal - YouTube](https://www.youtube.com/c/Vidoal/videos)
+- [GitHub - NarimanN2/ParsiAnalyzer: Persian Analyzer For Elasticsearch.](https://github.com/NarimanN2/ParsiAnalyzer)
+- [انتشار قالب جکیلِ وبسایت - مهدی صادقی](https://mehdix.ir/jekyll-theme.html)
+- [GitHub - sobhe/hazm: Python library for digesting Persian text.](https://github.com/sobhe/hazm)
+- [GitHub - kokabi1365/Vajehdan: راهنمای واژه‌گزینیِ فارسی 📘](https://github.com/kokabi1365/Vajehdan)
+- [GitHub - Text-Mining/Persian-NER: پیکره بزرگ شناسایی موجودیت‌های نامدار فارسی برچسب خورده](https://github.com/Text-Mining/Persian-NER)
+- [GitHub - amirshnll/clean-code-javascript: ترجمه فارسی مفاهیم کد تمیز در جاوااسکریپت](https://github.com/amirshnll/clean-code-javascript)
+- [My Hugo Workflow | Ernest Chiang](https://www.ernestchiang.com/en/posts/2021/my-hugo-workflow/)
+- [GitHub - longpdo/neumorphism: Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.](https://github.com/longpdo/neumorphism)
+- [Static Site Generators: any guides? - #5 by Maxence - Resolved help - Obsidian Forum](https://forum.obsidian.md/t/static-site-generators-any-guides/8915/5)
