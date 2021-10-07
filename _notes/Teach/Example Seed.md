@@ -9,6 +9,8 @@
 ### Software for note taking
 - [Obsidian](https://obsidian.md/)
 - [TiddlyWiki — a non-linear personal web notebook](https://tiddlywiki.com/) and how to use if to create a digital garden
+- [Shiraz 2.4.4 — create stylish contents in Tiddlywiki](https://kookma.github.io/TW-Shiraz/)
+- [kookma (Mohammad Rahmani) · GitHub](https://github.com/kookma) - Associate Professor of Chemical Engineering
 
 ## Spaced repition
 - [Anki - powerful, intelligent flashcards](https://apps.ankiweb.net/) for spaced repition
