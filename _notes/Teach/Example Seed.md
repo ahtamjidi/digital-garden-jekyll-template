@@ -15,9 +15,9 @@
 - [به راهنمای فارسی انکی خوش آمدید! — Anki Manual 98.04 documentation](https://ankidroid.net/book/anki-desktop/) farsi manual for anki and check out [Shared Decks - AnkiWeb](https://ankiweb.net/shared/decks/) for shared decks.
 
 ## Note taking
-- [Zettelkasten - Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten)
-- [A Beginner’s Guide to the Zettelkasten Method | Zenkit](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/)
-- [Niklas Luhmann - Wikipedia](https://en.wikipedia.org/wiki/Niklas_Luhmann)
+- [Zettelkasten \- Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten)
+- [A Beginner’s Guide to the Zettelkasten Method \| Zenkit](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/)
+- [Niklas Luhmann \- Wikipedia](https://en.wikipedia.org/wiki/Niklas_Luhmann)
 
 ## Digital Garden
 - [Andy Matuschak](https://andymatuschak.org/) a crowd funded researcer that works on tools of thought.
