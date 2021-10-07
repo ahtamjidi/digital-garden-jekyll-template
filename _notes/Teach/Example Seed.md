@@ -4,6 +4,7 @@
 ### Learn and teach
 - [Lasting Learning — learn and retain knowledge — more efficiently and effectively](http://www.lastinglearning.com/)  "Lasting Learning** is a community of the world’s foremost learning scientists with a focus on providing information about the best ways to enhance long-term retention of knowledge and skills across the lifespan. Our goal is to be a valuable resource for students, teachers, parents, athletes, coaches, and anyone else who wants to learn the best ways to learn."
 - [Takeaways from Make it Stick: The Science of Successful Learning | Blog of the APA](https://blog.apaonline.org/2020/02/19/takeaways-from-make-it-stick-the-science-of-successful-learning/)
+- [How to Study: MAKE IT STICK by P. Brown, M.McDaniel & H.Roediger III | Core Message - YouTube](https://www.youtube.com/watch?v=MfylloWuuZU)
 
 ### Software for note taking
 - [Obsidian](https://obsidian.md/)
@@ -15,6 +16,7 @@
 
 ## Note taking
 - [Zettelkasten - Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten)
+- [A Beginner’s Guide to the Zettelkasten Method | Zenkit](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/)
 - [Niklas Luhmann - Wikipedia](https://en.wikipedia.org/wiki/Niklas_Luhmann)
 
 ## Digital Garden
@@ -28,3 +30,9 @@
 ## History of digital gardens and other resources
 - [Digital gardens – Thomas Schoffelen](https://schof.co/digital-garden/)
 - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+
+**My suggestion**
+
+Use a form to gather input from participants
+[فرم ارسال مطلب](https://forms.gle/UYer8vyPqrrqpwuN6)
+
