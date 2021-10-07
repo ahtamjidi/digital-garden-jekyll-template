@@ -3,8 +3,8 @@
 ## Learn and teach effectively and share your knowledge
 ### Learn and teach
 - [Lasting Learning — learn and retain knowledge — more efficiently and effectively](http://www.lastinglearning.com/)  "Lasting Learning** is a community of the world’s foremost learning scientists with a focus on providing information about the best ways to enhance long-term retention of knowledge and skills across the lifespan. Our goal is to be a valuable resource for students, teachers, parents, athletes, coaches, and anyone else who wants to learn the best ways to learn."
-- [Takeaways from Make it Stick: The Science of Successful Learning | Blog of the APA](https://blog.apaonline.org/2020/02/19/takeaways-from-make-it-stick-the-science-of-successful-learning/)
-- [How to Study: MAKE IT STICK by P. Brown, M.McDaniel & H.Roediger III | Core Message - YouTube](https://www.youtube.com/watch?v=MfylloWuuZU)
+- [Takeaways from Make it Stick: The Science of Successful Learning \| Blog of the APA](https://blog.apaonline.org/2020/02/19/takeaways-from-make-it-stick-the-science-of-successful-learning/)
+- [How to Study: MAKE IT STICK by P. Brown, M.McDaniel & H.Roediger III \| Core Message \- YouTube](https://www.youtube.com/watch?v=MfylloWuuZU)
 
 ### Software for note taking
 - [Obsidian](https://obsidian.md/)
