@@ -6,6 +6,10 @@
 - [Fraud Detection with Python](https://trenton3983.github.io/files/projects/2019-07-19_fraud_detection_python/2019-07-19_fraud_detection_python.html)
 - [Confusion matrix - Wikipedia](https://en.wikipedia.org/wiki/Confusion_matrix)
 - [Online Fraud Detection—Amazon Fraud Detector–Amazon Web Services](https://aws.amazon.com/fraud-detector/)
+- [(PDF) A Survey of Ecommerce Transaction Fraud Prevention Models](https://www.researchgate.net/publication/341220380_A_Survey_of_Ecommerce_Transaction_Fraud_Prevention_Models)
+- [Using Scikit-learn and Keras for fraud detection | Kaggle](https://www.kaggle.com/randyrose2017/using-scikit-learn-and-keras-for-fraud-detection)
+- [5 Types of Ecommerce Fraud: How to Prevent & Detect it in 2021 | SEON](https://seon.io/resources/ecommerce-fraud-detection-and-prevention/)
+- [Ecommerce Fraud + 11 Fraud Prevention Strategies](https://www.bigcommerce.com/blog/ecommerce-fraud/#11-steps-for-preventing-fraud-on-your-ecommerce-store)
 
 ## Scikit learn
 
@@ -14,3 +18,5 @@
 
 ## Typical job description
 - [Applied Scientist \- Job ID\: 1117843 \| Amazon\.jobs](https://www.amazon.jobs/en/jobs/1117843/applied-scientist)
+
+##
