@@ -1,0 +1,1 @@
+- [Holiday Book Recommendations for Engineering Managers, Software Engineers and Product Managers - The Pragmatic Engineer](https://blog.pragmaticengineer.com/holiday-tech-book-recommendations/)

@@ -5,3 +5,5 @@ Python, because of GIL, does not allow for multi threading out of the box but th
 ![[Pasted image 20210102142102.png]]
 
 [Awesome Python](https://github.com/vinta/awesome-python): A curated list of awesome Python frameworks, libraries, software and resources.
+
+- [Code. Simply. Clearly. Calmly.](https://calmcode.io/)
