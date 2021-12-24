@@ -1,0 +1,2 @@
+- [Welcome — Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
+- [Graph Neural Networks | Deep Learning](https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/)

@@ -86,10 +86,19 @@ For a better discussion of this topic than I may hope to render in a few paragra
 ![[Pasted image 20210315225139.png]]
 
 ## Books and full courses
+### Harmony
 - [Music Theory for the 21st-Century Classroom](http://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 - [Seth Monahan](https://www.youtube.com/c/SethMonahan/videos)
 - [Open Music Theory](http://openmusictheory.com/)
 - [teoria](https://www.teoria.com/en/help/about.php)
+- [ekladata.com/ye4NRe3upzYwIysHSiIDgSoOiy0/KEYBOARD-Harmony-Improvisation-Volume-One.pdf](http://ekladata.com/ye4NRe3upzYwIysHSiIDgSoOiy0/KEYBOARD-Harmony-Improvisation-Volume-One.pdf)
+- [Hollywood Harmony: Musical Wonder and the Sound of Cinema (Oxford Music/Media Series) - Kindle edition by Lehman, Frank. Arts & Photography Kindle eBooks @ Amazon.com.](https://www.amazon.com/gp/product/B07C77JJRW/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
+- [About the Book](https://global.oup.com/us/companion.websites/9780190606404/book/)
+- [Popular Music Harmony Vol. 1 - Cycles - Kindle edition by Gardner, Jeff. Arts & Photography Kindle eBooks @ Amazon.com.](https://www.amazon.com/gp/product/B084KPXKWC/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i2)
+- [The Bookshelf - www.GeorgeHeussenstamm.com](https://www.georgeheussenstamm.com/the-bookshelf.html)
+
+### Counterpoint
+- [Free Counterpoint Online - Home](https://freecounterpointonline.weebly.com/)
 
 ## People
 - [Alan Belkin](https://www.youtube.com/channel/UCUQ0TcIbY_VEk_KC406pRpg/playlists) for his harmony courses (modern/applied)
