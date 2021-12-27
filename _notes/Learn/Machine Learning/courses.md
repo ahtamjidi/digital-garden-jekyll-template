@@ -4,4 +4,5 @@
 - [GitHub - QuickLearner171998/Machine-Learning-Interview-Prep](https://github.com/QuickLearner171998/Machine-Learning-Interview-Prep)
 - [GitHub - andrewekhalel/MLQuestions: Machine Learning and Computer Vision Engineer - Technical Interview Questions](https://github.com/andrewekhalel/MLQuestions)
 - [GitHub - AstronomerAmber/ML_prep: Machine Learning interview prep guide](https://github.com/AstronomerAmber/ML_prep) has flashcards #flashcard 
-	- [Lil'Log](https://lilianweng.github.io/lil-log/) 
+- [Lil'Log](https://lilianweng.github.io/lil-log/) 
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/)

@@ -1,3 +1,7 @@
+---
+tag: flashcards
+---
+
 # Sort
 
 ## Bubble sort algorithm
@@ -75,6 +79,7 @@ Yet, not stable and not cache friendly
 From i to 0..n, insert a[i] to its correct position to the left (0..i)
 
 Used by humans
+<!--SR:!2021-12-29,3,250-->
 
 [#sort](sort.md)
 
@@ -264,6 +269,25 @@ Fisher-Yates shuffle algorithm:
 
 [#sort](sort.md)
 
+## Algorithms
+- [Insertion Sort - GeeksforGeeks](https://www.geeksforgeeks.org/insertion-sort/)
+
 # References
 - [Insertion Sort - Sorting Algorithm Animations | Toptal®](https://www.toptal.com/developers/sorting-algorithms/insertion-sort)
 - [Sort Visualizer](https://sortvisualizer.com/)
+
+
+## Learn
+
+**Q:** What is a total order
+??
+![[Pasted image 20211226113325.png]]
+
+
+**Q:** What are we selecting in selection sort
+??
+![[Pasted image 20211226114929.png]]
+
+**Q:** What are the invariants of the selection sort
+??
+![[Pasted image 20211226115450.png]]

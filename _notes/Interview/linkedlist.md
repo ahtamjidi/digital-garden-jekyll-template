@@ -27,6 +27,7 @@ public ListNode reverse(ListNode head) {
 
 Each node contains a pointer to the previous and the next node
 
+
 [#linkedlist](linkedlist.md)
 
 ## Doubly linked list complexity: access, insert, delete
