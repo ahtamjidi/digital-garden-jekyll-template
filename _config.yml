@@ -23,12 +23,17 @@ permalink:           pretty
 relative_permalinks: false
 
 plugins:
-  - jekyll-last-modified-at
   - jekyll-jalali
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-hinduarabic
   - jekyll-seo-tag
+  - jekyll-spaceship
+  - jekyll-tagging-related_posts
+  - jekyll-include-cache
+  - jekyll-tagging-lite
+  - liquid_reading_time
+  - searchyll
 
 sass:
   sass_dir:          _sass
@@ -48,3 +53,7 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+elasticsearch:
+    url: https://fcoi0apc1w:fpiebs5hpp@atamjidi-5888116604.us-east-1.bonsaisearch.net:443 # ex: https://username:password@apple-123456.us-east-1.bonsai.io
+    index_name: jekyll-atamjidi-dg

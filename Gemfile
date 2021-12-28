@@ -20,4 +20,6 @@ group :jekyll_plugins do
     gem "liquid_reading_time"
     gem "jekyll-seo-tag"
     gem "jekyll-include-cache"
+    gem 'jekyll-spaceship'
+    gem 'searchyll'
   end

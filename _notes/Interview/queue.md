@@ -1,3 +1,6 @@
+---
+---
+
 # Queue
 
 ## Dequeue data structure

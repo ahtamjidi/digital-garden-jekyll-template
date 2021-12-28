@@ -1,3 +1,6 @@
+---
+---
+
 # Encoding
 
 ## ASCII charset

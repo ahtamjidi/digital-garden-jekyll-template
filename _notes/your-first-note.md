@@ -74,6 +74,9 @@ And of course, images look great:
 
 <img src="/assets/image.jpg"/>
 
+![image](/assets/image.jpg)
+
+
 You can also ==highlight some content== by wrapping it with `==`.
 
 ### Code syntax highlighting

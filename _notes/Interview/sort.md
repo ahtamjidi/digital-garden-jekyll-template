@@ -281,12 +281,12 @@ Fisher-Yates shuffle algorithm:
 
 **Q:** What is a total order
 ??
-![[Pasted image 20211226113325.png]]
+![[/assets/Pasted image 20211226113325.png]]
 
 
 **Q:** What are we selecting in selection sort
 ??
-![[Pasted image 20211226114929.png]]
+![[assets/Pasted image 20211226114929.png]]
 
 **Q:** What are the invariants of the selection sort
 ??
@@ -299,3 +299,10 @@ Fisher-Yates shuffle algorithm:
 **Q:** How many compares and exchanges are done on a randomly selected array when we do insertion sort
 ??
 ![[Pasted image 20211226222124.png]]
+
+
+Now in assets
+![Pasted image 20211226113325](/assets/Pasted%20image%2020211226113325.png)
+
+
+

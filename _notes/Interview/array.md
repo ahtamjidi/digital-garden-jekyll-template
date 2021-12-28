@@ -1,3 +1,6 @@
+---
+---
+
 # Array
 
 ## Algorithm to reverse an array
