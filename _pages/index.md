@@ -11,7 +11,7 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-[[_notes/Interview/_about_]]
+[[_notes/Health/_about_]]
 
 
 
