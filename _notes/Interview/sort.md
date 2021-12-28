@@ -291,3 +291,11 @@ Fisher-Yates shuffle algorithm:
 **Q:** What are the invariants of the selection sort
 ??
 ![[Pasted image 20211226115450.png]]
+
+**Q:** What are the invariants of insertion sort
+??
+![[Pasted image 20211226221627.png]]
+
+**Q:** How many compares and exchanges are done on a randomly selected array when we do insertion sort
+??
+![[Pasted image 20211226222124.png]]
