@@ -115,3 +115,9 @@ https://www.ultimate-tabs.com/ella-fitzgerald/my-romance-chords
 - [Alireza Mashayekhi](https://www.youtube.com/playlist?list=PLa8QV3F6USJYwgmR9qYHGN4wMlU5dU_oM)
 - [Layla Ramezan](https://www.youtube.com/channel/UCY2mTYPJ9PZ0hCOnaHzEIrg)
 - [Layla Ramezan & Keyvan Chemirani en concert- Scène nationale de St-Quantin-en-Yvelines](https://www.youtube.com/watch?v=jr7nhhIWaZ0)
+
+- [Opera Isn't Boring: My Favourite THRILLRIDES - YouTube](https://www.youtube.com/watch?v=wcT406Btd2U&t=3s)
+- [Cadences in the 16th and 17th centuries - YouTube](https://www.youtube.com/watch?v=jaCRUdxTRSM): The aim of Early Music Source is to simplify the access to the vast amount of Early music sources. It contains bibliographical lists in the different fields of early music. Sources which are available online are supplemented by links. The Database search allows a dynamic search according to different categories. Our youtube show discusses interesting subjects related to early music sources.
+- [THE 4 TYPES OF MINOR SCALE, EXPLAINED (natural, harmonic, melodic, dorian) - YouTube](https://www.youtube.com/watch?v=h3CM9ZB-c4I)
+
+
