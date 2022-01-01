@@ -8,3 +8,5 @@
 - [Writing Learning Objectives](http://www.icoph.org/dynamic/attachments/resources/learning_objectives_tennessee.pdf) #teach #learn 
 - [RetrievalPractice.org](http://www.retrievalpractice.org/) is a hub of research, resources, and teaching strategies based on the science of learning. By increasing access to rigorous scientifically-tested strategies, educators will have the power to transform teaching and learning worldwide.
 - [The Mnemonicizer (The Mnemonic Device Device)](https://human-factors.arc.nasa.gov/groups/cognition/tutorials/mnemonics/index.html) #mnemonic
+- [Repetition in Python — spaced 0.1 documentation](https://aleph2c.github.io/spaced/) #python #srs
+- [GitHub - paulbricman/autocards: Accelerating learning through machine-generated flashcards.](https://github.com/paulbricman/autocards#Usage)

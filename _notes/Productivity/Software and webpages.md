@@ -8,4 +8,5 @@
 - [Albert](https://albertlauncher.github.io/installing/)
 - [CopyQ](https://hluk.github.io/CopyQ/): CopyQ monitors system clipboard and saves its content in customized tabs. Saved clipboard can be later copied and pasted directly into any application.
 - [Leon[]()](https://github.com/leon-ai/leon): Your open-source personal assistant. #open-source #personal-assistant
+- [Zero Data App](https://0data.app/)
 

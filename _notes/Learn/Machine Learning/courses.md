@@ -9,3 +9,4 @@
 - [GitHub - AstronomerAmber/ML_prep: Machine Learning interview prep guide](https://github.com/AstronomerAmber/ML_prep) has flashcards #flashcard 
 - [Lil'Log](https://lilianweng.github.io/lil-log/) 
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+- [NeuroSymbolic Artificial Intelligence: Course Slides](https://cedar.buffalo.edu/~srihari/CSE701/index.html)

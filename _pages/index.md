@@ -11,8 +11,9 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-[[Interview/queue]]
-
+[queue](/Interview/queue)
+[bit](_notes/Interview/bit.md)
+[about](/_notes/Interview/interveiw_about)
 [[bit]]
 
 [[Fraud Detection]]
@@ -20,7 +21,6 @@ permalink: /
 $f=ma$
 
 [Interview is](/Interview/queue)
-
 
 
 <style>

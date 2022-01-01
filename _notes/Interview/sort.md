@@ -277,10 +277,14 @@ Fisher-Yates shuffle algorithm:
 - [Sort Visualizer](https://sortvisualizer.com/)
 
 
+[Obsidian](https://obsidian.md/)
+
 ## Learn
+
 
 **Q:** What is a total order
 ??
+![Pasted image 20211226113325](/assets/Pasted%20image%2020211226113325.png)
 ![[/assets/Pasted image 20211226113325.png]]
 
 

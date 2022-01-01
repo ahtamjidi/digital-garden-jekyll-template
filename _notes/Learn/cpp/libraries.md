@@ -1,4 +1,5 @@
 ---
+tags: learn/cpp
 ---
 
 ## state machine 
