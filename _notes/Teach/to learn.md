@@ -10,3 +10,6 @@
 - [The Mnemonicizer (The Mnemonic Device Device)](https://human-factors.arc.nasa.gov/groups/cognition/tutorials/mnemonics/index.html) #mnemonic
 - [Repetition in Python — spaced 0.1 documentation](https://aleph2c.github.io/spaced/) #python #srs
 - [GitHub - paulbricman/autocards: Accelerating learning through machine-generated flashcards.](https://github.com/paulbricman/autocards#Usage)
+- [Knowledge Probes - Paul Bricman](https://paulbricman.com/thoughtware/k-probes)
+- [GitHub - paulbricman/ideoscope: An instrument for quantifying, understanding, and optimizing your thinking.](https://github.com/paulbricman/ideoscope)
+- [Paul Bricman](https://paulbricman.com/)

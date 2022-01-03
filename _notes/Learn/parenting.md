@@ -7,6 +7,10 @@
 ## Videos
 - [Pathways - YouTube](https://www.youtube.com/user/PathwaysAwareness/playlists) has videos on activities 
 
+# Reading to infants
+- [Is E-Reading to Your Toddler Story Time, or Simply Screen Time? - The New York Times](https://www.nytimes.com/2014/10/12/us/is-e-reading-to-your-toddler-story-time-or-simply-screen-time.html)
+- [Reading Books to Babies (for Parents) - Nemours KidsHealth](https://kidshealth.org/en/parents/reading-babies.html)
+
 ## Daycare
 - [Daycare Syndrome and Frequent Infections](https://www.verywellfamily.com/daycare-syndrome-and-frequent-infections-2634485)
 - [Daycare germs: what you need to know - Today's Parent](https://www.todaysparent.com/toddler/daycare-germs-what-you-need-to-know/)
