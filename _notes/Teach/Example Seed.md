@@ -13,6 +13,8 @@
 - [Shiraz 2.4.4 — create stylish contents in Tiddlywiki](https://kookma.github.io/TW-Shiraz/)
 - [kookma (Mohammad Rahmani) · GitHub](https://github.com/kookma) - Associate Professor of Chemical Engineering
 
+19.2 13
+
 ## Spaced repition
 - [Anki - powerful, intelligent flashcards](https://apps.ankiweb.net/) for spaced repition
 - [به راهنمای فارسی انکی خوش آمدید! — Anki Manual 98.04 documentation](https://ankidroid.net/book/anki-desktop/) farsi manual for anki and check out [Shared Decks - AnkiWeb](https://ankiweb.net/shared/decks/) for shared decks.
