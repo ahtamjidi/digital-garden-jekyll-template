@@ -1,0 +1,2 @@
+- [The Smartest Kids in the World and How They Got That Way - March 12, 2014 - YouTube](https://www.youtube.com/watch?v=u6i57VToFsY)
+- [Early Childhood Education: The Research - YouTube](https://www.youtube.com/watch?v=NNgp1_B-6c8)

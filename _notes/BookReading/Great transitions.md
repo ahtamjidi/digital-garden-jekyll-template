@@ -1,0 +1,3 @@
+- [Vaclav Smil Lecture on Energy Transitions — Notes | by Sunday Newsletter | Medium](https://sundaynewsletter.medium.com/vaclav-smil-lecture-on-energy-transitions-notes-c5968d387259)
+- [The Scientific Methods: Crash Course History of Science #14 - YouTube](https://www.youtube.com/watch?v=UdQreBq6MOY&t=24s)
+- [Crash Course: History of Science - YouTube](https://www.youtube.com/playlist?list=PLH2l6uzC4UEUljwdcu8_x8df9GDr3lNcq)
