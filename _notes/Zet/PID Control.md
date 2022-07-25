@@ -1,0 +1,1 @@
+- [Understanding PID Control - YouTube](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y) #control #video #learn 

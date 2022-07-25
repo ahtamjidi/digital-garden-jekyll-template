@@ -1,0 +1,4 @@
+- [Visible Thinking | Project Zero](http://www.pz.harvard.edu/projects/visible-thinking)
+- The Olsons have found that the most effective way to make your thinking visible is to collaborate on creating of the shared artifacts " got it from the summary of [The Extended Mind - Annie Murphy Paul](https://anniemurphypaul.com/books/the-extended-mind/)" hoopla summary. I liked the last section of the summary about the collective thinking.
+- [PZ's Thinking Routines Toolbox | Project Zero](http://www.pz.harvard.edu/thinking-routines)
+- I need to review [Brain](_notes/Resources/Brain.md) for functional responsibilities of the brain
