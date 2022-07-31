@@ -1,0 +1,11 @@
+## Books
+- [Mindwise: How We Understand What Others Think, Believe, Feel, and Want - Farnam Street](https://fs.blog/mindwise-nicholas-epley/) midnwise  
+- [Mindwise by Nicholas Epley - Long Story Short Book Notes - Embrace Possibility](https://www.embracepossibility.com/blog/mindwise/) had a very good summary of the book mindwise with key takeaways  
+	- Perspective Getting vs Perspective taking  
+	- insincere flattery is shown to be just as effective as sincere flattery.  
+- [Honest Signals: How They Shape Our World - YouTube](https://www.youtube.com/watch?v=UL31rrUXFIk)  
+- [David Ehrlichman | Bio](https://ssir.org/bios/david_ehrlichman) Stanford Social Innovation Review: Informing and Inspiring ..  
+- [Social physics - Wikipedia](https://en.wikipedia.org/wiki/Social_physics#Potts_model_and_cultural_dynamics) Social physics  
+- ## Videos  
+- [Social Physics: How Good Ideas Spread | Sandy Pentland | Talks at Google - YouTube](https://www.youtube.com/watch?v=HMBl0ttu-Ow): Social Physics: How Good Ideas Spread | Sandy Pentland | Talks at Google  
+- [Honest Signals | Alex Sandy Pentland | Talks at Google - YouTube](https://www.youtube.com/watch?v=tfECX8VzkIQ)
