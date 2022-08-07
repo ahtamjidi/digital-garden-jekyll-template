@@ -13,6 +13,9 @@ permalink: /
 [Dashboard](_notes/BookReading/Dashboard.md)
 
 
+[[BookReading/Dashboard]]
+
+
 [queue](/Interview/queue)
 [bit](_notes/Interview/bit.md)
 [about](/_notes/Interview/interveiw_about)
