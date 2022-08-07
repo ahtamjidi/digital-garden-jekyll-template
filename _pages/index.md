@@ -13,10 +13,10 @@ permalink: /
 [Dashboard](_notes/BookReading/Dashboard.md)
 
 
-[[BookReading/Dashboard]]
+[[books]]
 
 
-[[_notes/BookReading/Dashboard]]
+[[_notes/BookReading/books]]
 
 [queue](/Interview/queue)
 [bit](_notes/Interview/bit.md)
